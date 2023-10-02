@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T13:58:26.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WTD--fr_TQtQZUtYik9O" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T14:02:51.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BFnVaUZr4-o_Okd50YLj" version="22.0.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4365" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4530" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,6 +540,21 @@
         </mxCell>
         <mxCell id="rrVYOLlGuRWR9MpwZNbw-1545" value="Wozu?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="887.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1546" value="Wer/was ruht in den Tombs?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1099.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1547" value="Wie/wozu wiedererweckt?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1154.75" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1548" value="Warum verkümmert &lt;br&gt;im Lauf der Zeit?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1101.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1549" value="Warum Ritter so schockiert &lt;br&gt;über die Schwäche &lt;br&gt;des erweckten Arthur?&lt;br&gt;Nur verlorene Hoffnung oder&lt;br&gt;gescheitertes Ritual?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1150.25" width="180" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1550" value="Reines Erwecken oder&lt;br&gt;Opfer/Seelentransfer?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1210" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
