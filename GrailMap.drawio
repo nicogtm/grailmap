@@ -1,0 +1,521 @@
+<mxfile host="app.diagrams.net" modified="2023-10-02T13:50:14.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uV6V_Y3vqvtv6jZb528E" version="22.0.0" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="4479" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1350" value="Der Gral" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2032" y="1307.25" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1351" value="Das Alte Wesen" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3160" y="1074.75" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1352" value="Wyrdness" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3060" y="591.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1353" value="Druiden" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1904.5" y="158" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1354" value="Gralsritter" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1479.5" y="1179" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1355" value="Krieg um Avalon" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2601" y="203" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1356" value="Foredwellers" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2606" y="1270.25" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1360" style="endArrow=none;strokeWidth=6;strokeColor=#f08705;html=1;" parent="1" source="1515" target="1351" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1361" style="endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" parent="1" source="1515" target="1352" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1362" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1353" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1363" style="endArrow=none;strokeWidth=6;strokeColor=#736CA8;html=1;" parent="1" source="1515" target="1516" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1364" style="endArrow=none;strokeWidth=6;strokeColor=#736ca8;html=1;" parent="1" source="1515" target="1354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1365" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#F08705;html=1;" parent="1" source="1515" target="1355" edge="1">
+          <mxGeometry x="181" y="226.5" width="100" height="100" as="geometry">
+            <mxPoint x="1311" y="306.5" as="sourcePoint" />
+            <mxPoint x="1411" y="206.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1366" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#E85642;html=1;" parent="1" source="1515" target="1356" edge="1">
+          <mxGeometry x="181" y="226.5" width="100" height="100" as="geometry">
+            <mxPoint x="1311" y="306.5" as="sourcePoint" />
+            <mxPoint x="1411" y="206.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1371" value="Bei Faels &lt;br&gt;Leiche gefunden" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1179" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1372" value="Wandmalerei in Fernsea" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2091" y="1470" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1383" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1371" edge="1">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1287" y="1192.25" as="sourcePoint" />
+            <mxPoint x="1387" y="1092.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1384" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1372" edge="1">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1287" y="1192.25" as="sourcePoint" />
+            <mxPoint x="1387" y="1092.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1397" value="Kann mit uns reden, &lt;br&gt;als erstes seit Jahrhunderten" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="3360" y="1065" width="160" height="45.25" as="geometry" />
+        </mxCell>
+        <mxCell id="1398" value="hasst den Zwerg" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="3295" y="1234.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1409" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1397" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="2060" y="954.75" as="sourcePoint" />
+            <mxPoint x="2160" y="854.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1410" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1398" edge="1">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="2060" y="954.75" as="sourcePoint" />
+            <mxPoint x="2160" y="854.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1418" value="Verändert &lt;br&gt;Erinnerungsstein" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="3220" y="486.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1429" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" target="1418" edge="1">
+          <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
+            <mxPoint x="1390" y="441.5" as="sourcePoint" />
+            <mxPoint x="1490" y="341.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1443" value="wollten Tote beschwören,&lt;br&gt;zur Verteidigung" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="20" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1443" edge="1">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="-55.5" y="-352" as="sourcePoint" />
+            <mxPoint x="44.5" y="-452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1457" value="Bors" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1462" value="Bei Tombs of the Order" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1219" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1466" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1462" edge="1">
+          <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
+            <mxPoint x="19.5" y="4" as="sourcePoint" />
+            <mxPoint x="119.5" y="-96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1467" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1457" edge="1">
+          <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
+            <mxPoint x="19.5" y="4" as="sourcePoint" />
+            <mxPoint x="119.5" y="-96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1468" value="Ultan" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2796" y="168" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1469" value="Mordred" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2811" y="240.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1478" value="Lady Kincaid" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2736" y="88" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1479" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1478" edge="1">
+          <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
+            <mxPoint x="1681" y="-967" as="sourcePoint" />
+            <mxPoint x="1781" y="-1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1480" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1468" edge="1">
+          <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
+            <mxPoint x="1681" y="-967" as="sourcePoint" />
+            <mxPoint x="1781" y="-1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1481" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1355" target="1469" edge="1">
+          <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
+            <mxPoint x="1681" y="-967" as="sourcePoint" />
+            <mxPoint x="1781" y="-1067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1500" value="Tuathan" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1501" value="Lady of the Lake" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2856" y="1410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="2236" y="250.25" as="sourcePoint" />
+            <mxPoint x="2336" y="150.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1513" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1500" edge="1">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="2236" y="250.25" as="sourcePoint" />
+            <mxPoint x="2336" y="150.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;startArrow=none;startFill=0;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12aab5;strokeWidth=6;fontSize=20;fontColor=#2F5B7C;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3532.5" y="1105" as="sourcePoint" />
+            <mxPoint x="3532.5" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1515" value="Tainted Grail" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2091" y="656.5" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1516" value="Champions" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1442" y="701.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1519" value="Neante" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="591.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1520" value="???" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1534.5" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1521" value="???" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1689.5" y="656.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1523" value="Fael" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1599.5" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1526" value="Lord Yvain" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1272" y="836.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1531" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1519" edge="1">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="-368" y="-223.5" as="sourcePoint" />
+            <mxPoint x="-268" y="-323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1532" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1520" edge="1">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="-368" y="-223.5" as="sourcePoint" />
+            <mxPoint x="-268" y="-323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1533" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1521" edge="1">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="-368" y="-223.5" as="sourcePoint" />
+            <mxPoint x="-268" y="-323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1535" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1523" edge="1">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="-368" y="-223.5" as="sourcePoint" />
+            <mxPoint x="-268" y="-323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1538" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1526" edge="1">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="-368" y="-223.5" as="sourcePoint" />
+            <mxPoint x="-268" y="-323.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1542" value="will befreit werden" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1544" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1351" target="g6st9Df7FxSZLDSMsTks-1542">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3239.5" y="1047" as="sourcePoint" />
+            <mxPoint x="3320.5" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1546" value="The Hunter" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1548" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;exitX=0.032;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1356" target="g6st9Df7FxSZLDSMsTks-1546">
+          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
+            <mxPoint x="2700" y="1253.25" as="sourcePoint" />
+            <mxPoint x="2844" y="1311.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1550" value="Tot in Stampede" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="1526" target="g6st9Df7FxSZLDSMsTks-1550">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="1222" y="831.5" as="sourcePoint" />
+            <mxPoint x="1140" y="876.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1552" value="Shimmering Talisman" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="1526" target="g6st9Df7FxSZLDSMsTks-1552">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="1470" y="860" as="sourcePoint" />
+            <mxPoint x="1410" y="894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1554" value="Tot in Tangleroot" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1599.5" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1555" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="1523" target="g6st9Df7FxSZLDSMsTks-1554">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="1519.5" y="876" as="sourcePoint" />
+            <mxPoint x="1541.5" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1556" value="Tot in&lt;br&gt;Valley of Guardians" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1724.5" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1556" target="1521">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="1908.2" y="596.5" as="sourcePoint" />
+            <mxPoint x="1908.2" y="626.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1558" value="Opfer von Verfolgung" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2032" y="88" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1559" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="1353" target="g6st9Df7FxSZLDSMsTks-1558">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1968" y="168" as="sourcePoint" />
+            <mxPoint x="1957" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1560" value="Ernennen neuen Gralsritter" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1561" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="1353" target="g6st9Df7FxSZLDSMsTks-1560">
+          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
+            <mxPoint x="1820.5" y="312" as="sourcePoint" />
+            <mxPoint x="1809.5" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1562" value="Bei Tombs of the Order" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1320.5" y="1290" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="1354" target="g6st9Df7FxSZLDSMsTks-1562">
+          <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
+            <mxPoint x="1509" y="1309.64" as="sourcePoint" />
+            <mxPoint x="1470" y="1309.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1564" value="Bei Giant irgendwas" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1330" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1565" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" edge="1" parent="1" source="1354" target="g6st9Df7FxSZLDSMsTks-1564">
+          <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
+            <mxPoint x="1495" y="1274" as="sourcePoint" />
+            <mxPoint x="1439" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1571" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1568" target="g6st9Df7FxSZLDSMsTks-1570">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1568" value="Wollten nach Tuathan" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="672.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1573" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1570" target="g6st9Df7FxSZLDSMsTks-1572">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1589" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1570" target="g6st9Df7FxSZLDSMsTks-1588">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1570" value="Gescheitert in&lt;br&gt;Valley of Guardians" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="741" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1579" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1572" target="g6st9Df7FxSZLDSMsTks-1578">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1582" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1572" target="g6st9Df7FxSZLDSMsTks-1581">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1572" value="Gejagt von&lt;br&gt;Foredweller Hunter" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="811" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1577" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1574" target="g6st9Df7FxSZLDSMsTks-1576">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1585" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1574" target="g6st9Df7FxSZLDSMsTks-1584">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1574" value="Einbruch &lt;br&gt;in Halle in Timberwall" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="971" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1576" value="Warum?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="971" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1578" value="Vor oder nach&lt;br&gt;&amp;nbsp;Einbruch gejagt?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="811" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1583" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1581" target="g6st9Df7FxSZLDSMsTks-1574">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1581" value="Haben erst&lt;br&gt;Lady Kincaid geholfen,&lt;br&gt;aber dann &lt;br&gt;nach Timberwall" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="887.5" width="120" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1587" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1584" target="g6st9Df7FxSZLDSMsTks-1586">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1591" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1584" target="g6st9Df7FxSZLDSMsTks-1590">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1584" value="Flucht nach Süden" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1051" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1597" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1586" target="g6st9Df7FxSZLDSMsTks-1596">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1586" value="Lord Yvain stirbt&lt;br&gt;in Stampede" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="1051" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1588" value="Ein Champion stirbt in Valley" style="whiteSpace=wrap;html=1;fillColor=#C3BDED;strokeColor=none;fontColor=#FFFFFF;rounded=0;strokeWidth=3;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="741" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1593" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1590" target="g6st9Df7FxSZLDSMsTks-1592">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1599" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1590" target="g6st9Df7FxSZLDSMsTks-1598">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1614" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1590" target="g6st9Df7FxSZLDSMsTks-1613">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1590" value="Flucht nach Osten,&lt;br&gt;Aufteilen" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1595" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1592" target="g6st9Df7FxSZLDSMsTks-1594">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1592" value="Fael stirbt&lt;br&gt;in Tangleroot" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1594" value="Hinterlässt Tainted Grail" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#C3BDED;strokeColor=none;fontColor=#FFFFFF;rounded=0;strokeWidth=3;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="1139.5" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1596" value="Hinterlässt Amulett" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#C3BDED;strokeColor=none;fontColor=#FFFFFF;rounded=0;strokeWidth=3;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="1040.5" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1601" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1598" target="g6st9Df7FxSZLDSMsTks-1600">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1598" value="Neante kommt zu&lt;br&gt;Tombs of the Order" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1600" value="Was dann?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1606" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1604" target="g6st9Df7FxSZLDSMsTks-1568">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1610" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1604" target="g6st9Df7FxSZLDSMsTks-1609">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1604" value="Lady entsendet&lt;br&gt;Champions" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="591" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1608" value="Warum?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="971" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1612" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1609" target="g6st9Df7FxSZLDSMsTks-1611">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1609" value="Um Gral zu suchen?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="591" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1611" value="Wozu?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="591" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1613" value="Wo ist der&lt;br&gt;5. Champion?" style="rounded=1;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1616" value="Fate of the Expedition" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="486.5" width="660" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1618" value="Fall of Chivalry / Restore The Order" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="490" width="660" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1621" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1619" target="g6st9Df7FxSZLDSMsTks-1620">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1638" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1619" target="g6st9Df7FxSZLDSMsTks-1637">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="686" />
+              <mxPoint x="280" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1639" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1619" target="g6st9Df7FxSZLDSMsTks-1631">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="686" />
+              <mxPoint x="280" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1619" value="Bors stirbt in Schlacht" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="666" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1620" value="Große Taten von vergangenen Bors,&lt;br&gt;mittlerweile kümmerlich" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="666" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1622" value="Einer kämpft bei Turm im Nordwesten" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="736" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1626" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1623" target="g6st9Df7FxSZLDSMsTks-1625">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1628" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1623" target="g6st9Df7FxSZLDSMsTks-1627">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1623" value="Einer ist bei Titan&#39;s Steps im Südosten" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="816" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1625" value="Hinterlässt &quot;Excalibur&#39;s Scabbard&quot;" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="801" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1630" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1627" target="g6st9Df7FxSZLDSMsTks-1629">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1627" value="Aufstand wegen Heilkräften der Scabbard" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="816" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1629" value="Beruhigt:&lt;br&gt;Restore Order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="796" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1631" value="Restore Order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="591" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1637" value="Fall of Chivalry" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1642" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1640" target="g6st9Df7FxSZLDSMsTks-1641">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1640" value="Zwei bei Tombs of the Order" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry y="899.25" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1646" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1641" target="g6st9Df7FxSZLDSMsTks-1645">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1641" value="Mit Vorgängen in Arthur&#39;s Grab konfrontiert,&lt;br&gt;aufgemuntert" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="899.25" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1645" value="Restore Order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="879.25" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
