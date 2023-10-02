@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T13:56:01.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HnI8mT1WKcxDRCq8a_hN" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T13:58:26.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WTD--fr_TQtQZUtYik9O" version="22.0.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="4365" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -467,13 +467,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1619" value="Bors stirbt in Schlacht" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1619" value="Bors stirbt in Schlacht" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry y="666" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1620" value="Große Taten von vergangenen Bors,&lt;br&gt;mittlerweile kümmerlich" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1620" value="Große Taten von vergangenen Bors,&lt;br&gt;mittlerweile kümmerlich" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-290" y="666" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1622" value="Einer kämpft bei Turm im Nordwesten" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1622" value="Einer kämpft bei Turm im Nordwesten" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry y="736" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1626" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6st9Df7FxSZLDSMsTks-1623" target="g6st9Df7FxSZLDSMsTks-1625" edge="1">
@@ -482,16 +482,24 @@
         <mxCell id="g6st9Df7FxSZLDSMsTks-1628" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6st9Df7FxSZLDSMsTks-1623" target="g6st9Df7FxSZLDSMsTks-1627" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1623" value="Einer ist bei Titan&#39;s Steps im Südosten" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1623" value="Einer ist bei Titan&#39;s Steps im Südosten" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry y="816" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1543" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1625" target="g6st9Df7FxSZLDSMsTks-1640">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1544" value="Scabbard soll zu Tombs gebracht werden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rrVYOLlGuRWR9MpwZNbw-1543">
+          <mxGeometry x="-0.4316" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1625" value="Hinterlässt &quot;Excalibur&#39;s Scabbard&quot;" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="801" width="205" height="70" as="geometry" />
+          <mxGeometry x="-290" y="801" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1630" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6st9Df7FxSZLDSMsTks-1627" target="g6st9Df7FxSZLDSMsTks-1629" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1627" value="Aufstand wegen Heilkräften der Scabbard" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1627" value="Aufstand wegen Heilkräften der Scabbard" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="270" y="816" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1629" value="Beruhigt:&lt;br&gt;Restore Order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" parent="1" vertex="1">
@@ -509,26 +517,29 @@
         <mxCell id="rrVYOLlGuRWR9MpwZNbw-1539" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6st9Df7FxSZLDSMsTks-1640" target="rrVYOLlGuRWR9MpwZNbw-1538">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1640" value="Zwei bei Tombs of the Order" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1640" value="Zwei bei Tombs of the Order" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry y="899.25" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1646" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g6st9Df7FxSZLDSMsTks-1641" target="g6st9Df7FxSZLDSMsTks-1645" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6st9Df7FxSZLDSMsTks-1641" value="Mit Vorgängen in Arthur&#39;s Grab konfrontiert,&lt;br&gt;aufgemuntert" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="g6st9Df7FxSZLDSMsTks-1641" value="Mit Vorgängen in Arthur&#39;s Grab konfrontiert,&lt;br&gt;aufgemuntert" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="270" y="899.25" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g6st9Df7FxSZLDSMsTks-1645" value="Restore Order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f08e81;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="879.25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1538" value="Erwecken Arthur,&lt;br&gt;aber verkümmert" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="899.25" width="210" height="40" as="geometry" />
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1538" value="Erwecken Arthur,&lt;br&gt;aber verkümmert" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="960.5" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rrVYOLlGuRWR9MpwZNbw-1541" value="Mit Neantes Gral?!&lt;br&gt;Ohne Gral, weil gescheitert?" style="rounded=0;fillColor=#C3BDED;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1000.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="-480" y="1040" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1542" value="Mordred ist Gralsritter?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1542" value="Mordred ist Gralsritter?" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry y="1000" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rrVYOLlGuRWR9MpwZNbw-1545" value="Wozu?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="887.5" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
